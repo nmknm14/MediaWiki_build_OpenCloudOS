@@ -1,0 +1,2 @@
+# MediaWiki_build_OpenCloudOS
+使用opencloudos搭建mediawiki网站
