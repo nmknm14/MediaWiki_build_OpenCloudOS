@@ -189,7 +189,7 @@ sudo dnf install mariadb-server
 sudo mysql
 ```
 ```sql
-ALTER USER 'root'@'localhost' IDENTIFIED BY '19991207';
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'password';
 FLUSH PRIVILEGES;
 EXIT;
 ```
